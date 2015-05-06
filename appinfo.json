@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Ben Chapman-Kish",
+    "longName": "Modest",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Montserrat.ttf",
+                "name": "FONT_MONTSERRAT_17",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Montserrat.ttf",
+                "name": "FONT_MONTSERRAT_41",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Modest",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "035a7378-7a69-4508-93da-c06d8d70d2dd",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
